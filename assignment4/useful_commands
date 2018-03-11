@@ -1,0 +1,7 @@
+python assign4.py --model model_exp1.ckpt --embeddings /Users/mlx/Downloads/Document/GoogleNews-vectors-negative300.txt --eval_only_mode --static
+
+python assign4.py --model model_exp2.ckpt --embeddings /Users/mlx/Downloads/Document/glove.840B.300d.txt --eval_only_mode --static
+
+python assign4.py --model model_exp4.ckpt --embeddings /Users/mlx/Downloads/Document/GoogleNews-vectors-negative300.txt --eval_only_mode
+
+python assign4.py --model model_exp5.ckpt --embeddings /Users/mlx/Downloads/Document/glove.840B.300d.txt --eval_only_mode

@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.DS_Store
+.idea/
+*.ckpt
+*.txt
+*.zip
+*.pt
