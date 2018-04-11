@@ -106,3 +106,7 @@ From the charts above, although different models may have slight differences, on
 When phrase length exceeds certain threshold, the accuracy drops drastically.
 ## 3. Citations
 https://github.com/DSKSD/DeepNLP-models-Pytorch
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyMDEyMDQ3OTNdfQ==
+-->
